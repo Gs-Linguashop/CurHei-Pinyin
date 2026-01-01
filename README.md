@@ -1,4 +1,9 @@
-# CursiveHei-Pinyin（正艹黑体-拼音）
+# CursiveHei-Pinyin（正草黑体-拼音）
+
+**Notice:** this project has been dicontinued and further development can be found in the following projects:
+* [Mingjian Caoshu Heiti (明鉴草书黑体）](https://github.com/Gs-Linguashop/MingjianCaoshuHeiti): an open-source continuation of this project. Cursive Chinese font with clarity and readability.
+* [方正巴龙草书黑体](https://www.foundertype.com/index.php/FontInfo/index/id/12299): a collaboration with FounderType. Commercially available on FounderType's official website.
+
 ## The Sans Serif Chinese Font with Pinyin 
 
 ### Introduction 
